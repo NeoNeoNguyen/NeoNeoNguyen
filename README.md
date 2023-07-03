@@ -1,6 +1,6 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="SVG/neonguyen-backgound.svg" width="1200" alt="neonguyen-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -104,13 +104,8 @@
   <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
+  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="neonguyen-official" />
 </a>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="trungquandev-official" />
-</a>
+
 
