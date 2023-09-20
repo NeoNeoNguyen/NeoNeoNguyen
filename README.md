@@ -6,40 +6,40 @@
 <h2 align="center">⚙ Technologies and Tools ⚙</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/VS Code-27374D?logo=visualstudiocode&logoColor=#007ACC" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VS Code-27374D?logo=visualstudiocode&logoColor=#007ACC" alt="JavaScript logo" title="VS Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VS Tudio-27374D?logo=visualstudio&logoColor=#5C2D91" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/VS Studio-27374D?logo=visualstudio&logoColor=#5C2D91" alt="JavaScript logo" title="VS Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.net-27374D?logo=dotnet&logoColor=#512BD4" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.net-27374D?logo=dotnet&logoColor=#512BD4" alt="JavaScript logo" title=".net" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/.net core-27374D?logo=dotnetcore&logoColor=#512BD4" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/.net core-27374D?logo=dotnetcore&logoColor=#512BD4" alt="JavaScript logo" title=".net core" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Javascript-27374D?logo=javascript&logoColor=#512BD4" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Node-27374D?logo=nodedotjs&logoColor=#512BD4" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Node-27374D?logo=nodedotjs&logoColor=#512BD4" alt="JavaScript logo" title="Node" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/React-27374D?logo=React&logoColor=#512BD4" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/React-27374D?logo=React&logoColor=#512BD4" alt="JavaScript logo" title="React" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-27374D?logo=eslint&logoColor=#4B32C3" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/ESLint-27374D?logo=eslint&logoColor=#4B32C3" alt="JavaScript logo" title="ESLint" height="25" /></span>
 &nbsp;
 
-<span><img src="https://img.shields.io/badge/Java-27374D?logo=java&logoColor=#4B32C3" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-27374D?logo=java&logoColor=#4B32C3" alt="JavaScript logo" title="Java" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Html5-27374D?logo=html5&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Html5-27374D?logo=html5&logoColor=#033963" alt="JavaScript logo" title="Html5" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Css3-27374D?logo=css3&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Css3-27374D?logo=css3&logoColor=#033963" alt="JavaScript logo" title="Css3" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-27374D?logo=mongodb&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/MongoDB-27374D?logo=mongodb&logoColor=#033963" alt="JavaScript logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Microsoftsqlserver-27374D?logo=microsoftsqlserver&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Microsoftsqlserver-27374D?logo=microsoftsqlserver&logoColor=#033963" alt="JavaScript logo" title="Microsoftsqlserver" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Oracle-27374D?logo=oracle&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Oracle-27374D?logo=oracle&logoColor=#033963" alt="JavaScript logo" title="Oracle" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Bootstrap-27374D?logo=bootstrap&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-27374D?logo=bootstrap&logoColor=#033963" alt="JavaScript logo" title="Bootstrap" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Figma-27374D?logo=figma&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Figma-27374D?logo=figma&logoColor=#033963" alt="JavaScript logo" title="Figma" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Adobe-27374D?logo=adobe&logoColor=#033963" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Adobe-27374D?logo=adobe&logoColor=#033963" alt="JavaScript logo" title="Adobe" height="25" /></span>
 &nbsp;
 
 <br>
